@@ -1,3 +1,5 @@
+---
+---
 # micro:bit
 
 Ga met Internet Explorer naar [https://makecode.microbit.org](https://makecode.microbit.org)
