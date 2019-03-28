@@ -1,7 +1,6 @@
 ---
+title: micro:bit
 ---
-# micro:bit
-
 Ga met Internet Explorer naar [https://makecode.microbit.org](https://makecode.microbit.org)
 
 Om je programma op de micro:bit te zetten klik je op Download:
