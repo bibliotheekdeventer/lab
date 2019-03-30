@@ -5,6 +5,7 @@ body {
 img {
   margin-left: 4em;
   width: 40%;
+  box-shadow: 0 0 10px 10px lightgrey;
 }
 
 footer {
