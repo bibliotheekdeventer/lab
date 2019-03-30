@@ -15,9 +15,16 @@
     <div class="wrapper">
       <h1>{{ page.title }}</h1>
       {{ content }}
-
       <footer>
-        Deze lesbrief: {{ page.url | absolute_url }}
+        <hr>
+        <div style="float:left">
+        Lesbrief van het lab op het Innovatieplein van Bibliotheek Deventer<br>
+        Deze lesbrief: <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a><br>
+        </div>
+        <div style="float:right; text-align: right">
+        Iedere zaterdag 'open lab' van 14:30 tot 16:30<br>
+        <a href="https://www.meetup.com/Innovatieplein-Deventer">https://www.meetup.com/Innovatieplein-Deventer</a><br>
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

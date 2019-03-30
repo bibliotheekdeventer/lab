@@ -11,6 +11,14 @@ img[alt=New] {
 }
 </style>
 
+## Wat is een micro:bit?
+
+De micro:bit is een klein (4x5cm) micro-computertje met knopjes en LEDjes dat
+met verschillende programmeertalen kan worden geprogrammeerd. Het is het
+makkelijkst te beginnen met de Blocks Editor.
+
+## Instructies:
+
 Ga met Internet Explorer naar [https://makecode.microbit.org](https://makecode.microbit.org) en kies 'New Project':
 
 ![New](microbit/new.png)
