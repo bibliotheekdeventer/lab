@@ -9,6 +9,13 @@ img[alt=Download] {
 img[alt=New] {
   width: 200px;
 }
+img[alt=Tutorials] {
+  width: 200px;
+}
+img[alt=Language] {
+  width: 100px;
+  margin-left: 10px;
+}
 </style>
 
 ## Wat is een micro:bit?
@@ -19,9 +26,13 @@ makkelijkst te beginnen met de Blocks Editor.
 
 ## Instructies:
 
-Ga met Internet Explorer naar [https://makecode.microbit.org](https://makecode.microbit.org) en kies 'New Project':
+Ga met Internet Explorer naar [https://makecode.microbit.org](https://makecode.microbit.org).
 
-![New](microbit/new.png)
+Zie je Engels? Selecteer onderaan de taal met ![Language](microbit/language.png).
+
+Start nu een nieuw project of volg een van de Beginners cursussen:
+
+![New](microbit/new.png) ![Tutorials](microbit/tutorials.png)
 
 Bouw nu je programma in de simulator.
 
