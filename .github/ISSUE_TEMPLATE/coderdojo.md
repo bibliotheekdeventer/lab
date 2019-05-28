@@ -1,6 +1,7 @@
 ---
 title: 'CoderDojo DATUM'
 labels: coderdojo
+about: Plan een CoderDojo in
 ---
 
 * [ ] Mentors: ...
