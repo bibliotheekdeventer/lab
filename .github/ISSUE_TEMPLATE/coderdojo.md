@@ -1,8 +1,9 @@
 ---
-title: 'CoderDojo DATUM'
-labels: coderdojo
+name: CoderDojo
 about: Plan een CoderDojo in
 
+title: 'CoderDojo DATUM'
+labels: coderdojo
 ---
 
 * [ ] Mentors: ...
