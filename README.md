@@ -1,8 +1,8 @@
-Dit is de GitHub van het lab op het Innovatieplein van Bibliotheek Deventer.
+Dit is de GitHub van Makersplaats Deventer, op het Innovatieplein van Bibliotheek Deventer.
 
 ## Bekijken
 
-Bekijk de lesbrieven op https://bibliotheekdeventer.github.io/lab/lesbrieven/microbit.html
+Bekijk de lesbrieven op https://bibliotheekdeventer.github.io/makersplaatsl/lesbrieven/microbit.html
 
 ## Aanpassen
 
