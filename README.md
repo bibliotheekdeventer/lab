@@ -1,4 +1,6 @@
-Dit is de GitHub van Makersplaats Deventer, op het Innovatieplein van Bibliotheek Deventer.
+![logo](logo.svg)
+
+Dit is de GitHub van Makersplaats Deventer, te vinden op het Innovatieplein van Bibliotheek Deventer.
 
 ## Bekijken
 
