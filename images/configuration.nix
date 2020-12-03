@@ -1,6 +1,7 @@
 { config, pkgs, lib, ... }:
 
 {
+  nix.nixPath = [ "nixpkgs=${<nixpkgs>}" "nixos-config=/etc/nixos/configuration.nix" ];
   isoImage.makeEfiBootable = true;
   isoImage.makeUsbBootable = true;
 
