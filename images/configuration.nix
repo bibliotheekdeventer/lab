@@ -5,6 +5,10 @@
   isoImage.makeEfiBootable = true;
   isoImage.makeUsbBootable = true;
 
+  isoImage.appendToMenuLabel = " Makersplaats Vinylsnijder";
+  isoImage.splashImage = ./bios-boot.png;
+  isoImage.efiSplashImage = ./bios-boot.png;
+
   services.xserver = {
     enable = true;
     desktopManager = {
@@ -20,6 +24,7 @@
   networking.networkmanager.enable = true;
 
   time.timeZone = "Europe/Amsterdam";
+  #i18n.defaultLocale = "nl_NL.UTF-8/UTF-8";
 
   services.printing = {
     enable = true;
